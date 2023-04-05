@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="'en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            Landing
+        </title>
+    </head>
+    <body>
+        <div>
+            <div>
+                <img src="img/figma-logo.png">
+            </div>
+        <nav class="navigation">
+            <ol class="main-menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Product</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ol>
+                <a href="https://twitter.com/" target="_blank"><img src="#" alt="twitter-logo"></a>
+                <a href="https://www.facebook.com/" target="_blank"><img src="#" alt="facebook-logo"></a>
+                <a href="https://www.linkedin.com/uas/login-submit" target="_blank"><img src="#" alt="linkedin-logo"></a>
+        </nav>
+        </div>
+        <div>
+            <h1>
+                The best products with figma
+            </h1>
+            <p>
+                Most calendars are designed for teams. Slate is designed for freelancers
+            </p>
+            <button>
+                Try for free
+            </button>
+        </div>
+    </body>
+</html>
